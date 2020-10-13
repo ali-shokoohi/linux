@@ -3,6 +3,10 @@
 #define _ASM_X86_ACPI_H
 
 /*
+ * Some change cause linux is free
+*/
+
+/*
  *  Copyright (C) 2001 Paul Diefenbaugh <paul.s.diefenbaugh@intel.com>
  *  Copyright (C) 2001 Patrick Mochel <mochel@osdl.org>
  */
